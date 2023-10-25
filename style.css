@@ -298,7 +298,7 @@ body {
   padding: 15px;
   color: var(--dark-color);
   background: whitesmoke;
-  border-radius: 10px 10px 0px 10px;
+  border-radius: 10px 10px 0 10px;
   line-height: 20px;
   word-wrap: break-word;
   overflow-wrap: break-word;
@@ -358,7 +358,7 @@ body {
   padding: 15px 50px 15px 15px;
   color: var(--dark-color);
   background: #eeffde;
-  border-radius: 10px 10px 0px 10px;
+  border-radius: 10px 10px 0 10px;
   float: right;
   line-height: 24px;
   word-wrap: break-word;
@@ -397,7 +397,7 @@ body {
   padding: 15px 50px 15px 15px;
   color: var(--dark-color);
   background: #d9edf7;
-  border-radius: 10px 10px 10px 0px;
+  border-radius: 10px 10px 10px 0;
   float: left;
   line-height: 24px;
   word-wrap: break-word;
