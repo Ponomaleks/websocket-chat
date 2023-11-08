@@ -1,4 +1,4 @@
-# websocket-chat
+# websocket-chat PoC
 
 TASK
 
